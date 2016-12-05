@@ -3,7 +3,7 @@
 詳細解說(投影片 PPT)請至 : https://github.com/Kantai235/Android-Tutorial<br />
 對課堂有興趣？寄信找乾太。
 
-![Main](/images/images1.PNG "Main")
+![Main](/images/image1.PNG "Main")
 
 # Tosat 方法
 ```Java
